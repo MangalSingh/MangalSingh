@@ -40,7 +40,8 @@ REST API | GraphQL | Hyvä | Vue | React
 - GitHub: https://github.com/MangalSingh  
 - Website: https://octocub.com/
 - Email: mangalsingh16ptd@gmail.com
-
+- upwork: https://www.upwork.com/freelancers/~01ba69b593f20d7c76?viewMode=1
+- freelancer: https://www.freelancer.in/u/rajveerdeveloper
 ---
 
 ⭐ Keywords: Magento 2 Developer USA, Magento Extension Developer, Shopify Expert UK, eCommerce Developer Europe
